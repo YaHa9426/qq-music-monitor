@@ -2,18 +2,20 @@ name: QQ音乐免费会员活动监控
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 9 * * *'
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: 检出代码
+        uses: actions/checkout@v4
+      - name: 设置Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests
+      - name: 安装依赖
+        run: pip install requests
       - name: 运行监控脚本
         env:
           SC_SENDKEY: ${{ secrets.SC_SENDKEY }}
