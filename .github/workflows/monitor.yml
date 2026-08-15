@@ -8,16 +8,27 @@ on:
 jobs:
   monitor:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: 检出代码
-        run: git clone --depth 1 https://github.com/${{ github.repository }}.git repo
+        uses: actions/checkout@v4
+      - name: 配置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - name: 安装依赖
-        run: |
-          cd repo
-          pip install requests
+        run: pip install requests
       - name: 运行监控脚本
         env:
           SC_SENDKEY: ${{ secrets.SC_SENDKEY }}
+        run: python src/monitor.py
+      - name: 保存活动快照
         run: |
-          cd repo
-          python3 src/monitor.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/snapshot.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update activity snapshot"
+            git push
+          fi
