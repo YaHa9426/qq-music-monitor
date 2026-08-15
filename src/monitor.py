@@ -11,7 +11,7 @@ MONITOR_URLS = [TARGET_URL, ACTIVITY_URL]
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Accept-Language": "zh-CN,zh;q=0.9",
-    "Referer": "https://y.qq.com/";
+    "Referer": "https://y.qq.com/",
 }
 KEYWORDS = ["免费","0元","限时","领绿钻","领会员","体验卡","兑换","积分","赠送","0.01元","特惠","全球通","联通","电信","移动","招行","平安","开卡","联名","京东"]
 EXCLUDE_KEYWORDS = ["隐私政策","应用权限","介绍"]
