@@ -1,8 +1,20 @@
 {
-  "hash": "520e6514d36724dc9c8194f021125bcc",
+  "hash": "32391ed13568a13a1bced2ea3ca318e1",
   "activities": [
     {
       "title": "去元宝免费领豪华绿钻",
+      "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
+    },
+    {
+      "title": "限时",
+      "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
+    },
+    {
+      "title": "0元领绿钻",
+      "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
+    },
+    {
+      "title": "全球通限免",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
@@ -22,7 +34,11 @@
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
-      "title": "电信积分兑换会员",
+      "title": "免费领绿钻",
+      "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
+    },
+    {
+      "title": "全球通用户限时免费领",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
@@ -62,6 +78,10 @@
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
+      "title": "电信积分兑换会员",
+      "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
+    },
+    {
       "title": "招行积分兑会员",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
@@ -98,5 +118,5 @@
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     }
   ],
-  "last_check": "2026-08-25T18:33:38.746579"
+  "last_check": "2026-08-26T12:42:08.652036"
 }
