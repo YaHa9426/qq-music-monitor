@@ -1,5 +1,5 @@
 {
-  "hash": "b54a5bdeb1134e3a988b2fd69c833c43",
+  "hash": "aca309fdf2f9b1acdc31f540670e35fc",
   "activities": [
     {
       "title": "去元宝免费领豪华绿钻",
@@ -18,10 +18,6 @@
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
-      "title": "0元兑会员",
-      "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
-    },
-    {
       "title": "首月特惠",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
@@ -30,15 +26,15 @@
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
+      "title": "0元兑会员",
+      "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
+    },
+    {
       "title": "联通积分兑换会员",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
-      "title": "免费领绿钻",
-      "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
-    },
-    {
-      "title": "全球通用户限时免费领",
+      "title": "电信积分兑换会员",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
@@ -70,15 +66,19 @@
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
+      "title": "免费领绿钻",
+      "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
+    },
+    {
+      "title": "全球通用户限时免费领",
+      "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
+    },
+    {
       "title": "积分当钱花",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
       "title": "联通宽带特惠福利",
-      "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
-    },
-    {
-      "title": "电信积分兑换会员",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
@@ -118,5 +118,5 @@
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     }
   ],
-  "last_check": "2026-08-28T08:45:12.385762"
+  "last_check": "2026-09-01T03:17:02.611261"
 }
