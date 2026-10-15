@@ -1,16 +1,20 @@
 {
-  "hash": "cf3210948284b87f3b16ae8dd4513802",
+  "hash": "a77201765d9029679ca652af4a6ec1fb",
   "activities": [
+    {
+      "title": "今日可免费抽奖",
+      "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
+    },
     {
       "title": "去元宝免费领豪华绿钻",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
-      "title": "限时",
+      "title": "0元领绿钻",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
-      "title": "0元领绿钻",
+      "title": "限时",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
@@ -22,19 +26,15 @@
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
-      "title": "特惠",
-      "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
-    },
-    {
       "title": "0.01元享绿钻",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
-      "title": "0元兑会员",
+      "title": "联通积分兑换会员",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
-      "title": "联通积分兑换会员",
+      "title": "0元兑会员",
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     },
     {
@@ -122,5 +122,5 @@
       "source": "https://i2.y.qq.com/n3/cm/pages/vip/freevip/v2/index.html"
     }
   ],
-  "last_check": "2026-10-14T16:23:55.288848"
+  "last_check": "2026-10-15T10:46:16.740514"
 }
